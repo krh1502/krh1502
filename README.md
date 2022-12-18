@@ -6,6 +6,8 @@ I am a third year CS student at GWU in Washington, DC! I am passionate about tea
 
 #### [email me](mailto:katehalushka@gmail.com)
 
+#### [check out my linkedin](https://www.linkedin.com/in/kate-halushka/)
+
 <!--
 **krh1502/krh1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
