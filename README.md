@@ -2,7 +2,9 @@
 #### Kate Halushka (she/her)
 
 
-I am a third year CS student at GWU in Washington, DC! I am passionate about teaching the next generation of computer scientists. I am currently an Undergraduate TA for GW's CSCI 2461 course (Computer Architecture), and last year I was an LA (Learning Asst.) for CSCI 1111 (Intro to Java). Last summer, I interned at Liberty Mutual, and I am looking forward to interning at Nike this summer following my semester abroad at King's College London.
+I am a fourth year CS student at GWU in Washington, DC! I am passionate about teaching the next generation of computer scientists. I am currently an Undergraduate TA for GW's CSCI 2451W course (Databases and Team Projects), and I have previously been a UTA/LA for Operating Systems, Computer Architcture, and Intro to Software Engineering (Java). Last summer, I interned at [Nike](https://innovation.nike.com/), working on the Sports Science Platform (SSP) within the Product Innovation & Consumer Creation (PICC) organization. I have also interned at [Liberty Mutual](https://jobs.libertymutualgroup.com/careers/campus/undergraduate-internships/technology/) and [Mindgrub](https://mindgrub.com/).
+
+Upon my graduation, I will be joining [Capital One](https://www.capitalonecareers.com/full-time-programs) in the Technology Development Program (TDP) as a software engineer in McLean, VA.
 
 #### [email me](mailto:katehalushka@gmail.com)
 
